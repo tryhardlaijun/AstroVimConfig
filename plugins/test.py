@@ -1,4 +1,4 @@
 def socket():
+    return 3
 
-   return 3; 
 
